@@ -1,0 +1,23 @@
+READ ME
+
+Descripción:
+
+En este proyecto desarrollé un dashboard de análisis poblacional con el objetivo de identificar patrones globales en indicadores de salud, específicamente esperanza de vida y mortalidad infantil.
+
+El análisis combina visuales tabulares, gráficos de dispersión y mapas geográficos para comparar países y continentes, permitiendo detectar brechas regionales y relaciones inversas entre ambos indicadores.
+
+Objetivo: Analizar cómo se relacionan la esperanza de vida y la mortalidad infantil a nivel global, y cómo estas métricas varían entre continentes.
+
+Preguntas a responder:
+
+- ¿Existe relación entre mortalidad infantil y esperanza de vida?
+- ¿Qué continentes concentran los peores indicadores?
+- ¿Cómo influye el tamaño de la población en estos indicadores?
+
+Insight clave:
+
+ - África concentra la mayor cantidad de países con alta mortalidad infantil y baja esperanza de vida, mientras que Europa muestra indicadores más homogéneos y favorables.
+
+Conclusión:
+
+- Este análisis permite identificar brechas globales en salud y priorizar regiones para políticas públicas o estudios más profundos.
